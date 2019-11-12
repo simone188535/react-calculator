@@ -26,6 +26,12 @@ class App extends Component {
             <Button>3</Button>
             <Button>+</Button>
           </div>
+          <div className="row">
+            <Button>.</Button>
+            <Button>0</Button>
+            <Button>=</Button>
+            <Button>-</Button>
+          </div>
           {/* <Input input={this.state.input}/> */}
           test
         </div>
